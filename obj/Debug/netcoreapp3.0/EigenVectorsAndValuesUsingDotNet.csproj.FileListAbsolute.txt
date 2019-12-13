@@ -1,0 +1,11 @@
+c:\Math\EigenVectorsAndValuesUsingDotNet\obj\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.csprojAssemblyReference.cache
+c:\Math\EigenVectorsAndValuesUsingDotNet\obj\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.AssemblyInfoInputs.cache
+c:\Math\EigenVectorsAndValuesUsingDotNet\obj\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.AssemblyInfo.cs
+c:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.exe
+C:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.deps.json
+C:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.runtimeconfig.json
+C:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.runtimeconfig.dev.json
+c:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.dll
+c:\Math\EigenVectorsAndValuesUsingDotNet\bin\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.pdb
+c:\Math\EigenVectorsAndValuesUsingDotNet\obj\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.dll
+c:\Math\EigenVectorsAndValuesUsingDotNet\obj\Debug\netcoreapp3.0\EigenVectorsAndValuesUsingDotNet.pdb
